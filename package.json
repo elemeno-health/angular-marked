@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "marked": "^0.3.19"
+    "marked": "^0.8.0"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
